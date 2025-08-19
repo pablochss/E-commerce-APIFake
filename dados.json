@@ -1,0 +1,16 @@
+{
+    "nome": "Mouse Dell MS116",
+    "preco": "R$ 60,00",
+    "image": "<img src= 'img/mouse.png' width= '110px'>",
+    "descricao": "Preto, 1000 dpi, com fio.",
+
+    "nome2": "Mousepad Dell Original",
+    "preco2": "R$ 15,00",
+    "image2": "<img src= 'img/mousepad.png' width= '120px'>",
+    "descricao2": "Antiderrapante",
+
+    "nome3": "Notebook Latitude 3450",
+    "preco3": "R$ 4.950,00",
+    "image3": "<img src= 'img/notebook.png' width= '190px'>",
+    "descricao3": "13ª geração Intel® Core™ i5-1345U"
+}
