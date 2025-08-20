@@ -40,4 +40,5 @@ title: "Compra feita com sucesso!",
 text: "Notebook Latitude 3450, R$ 4.950,00, 13ª geração Intel® Core™ i5-1345U",
 icon: "success"
 });
+console.log(corpo)
 }
